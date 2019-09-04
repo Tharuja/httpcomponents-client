@@ -8,7 +8,7 @@ and upgrades HttpCore dependency to version 4.4.12.
 Changelog:
 -------------------
 
-*  Refactor DefaultRedirectStrategy for subclassing.
+* Refactor DefaultRedirectStrategy for subclassing.
   Contributed by Gary Gregory <ggregory at apache.org>
 
 * Improved handling of request cancellation.
